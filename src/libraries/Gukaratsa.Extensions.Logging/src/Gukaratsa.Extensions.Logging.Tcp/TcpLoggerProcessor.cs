@@ -1,7 +1,6 @@
 ﻿namespace Gukaratsa.Extensions.Logging.Tcp
 {
-    public class Class1
+    internal sealed class TcpLoggerProcessor
     {
-
     }
 }

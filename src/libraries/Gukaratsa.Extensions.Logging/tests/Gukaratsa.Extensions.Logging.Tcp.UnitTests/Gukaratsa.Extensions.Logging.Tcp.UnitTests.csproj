@@ -21,4 +21,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Gukaratsa.Extensions.Logging.Tcp\Gukaratsa.Extensions.Logging.Tcp.csproj" />
+  </ItemGroup>
+
 </Project>
