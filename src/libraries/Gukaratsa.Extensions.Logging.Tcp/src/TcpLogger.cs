@@ -12,6 +12,8 @@ namespace Gukaratsa.Extensions.Logging.Tcp
         public IDisposable? BeginScope<TState>(TState state) where TState : notnull
         {
             throw new NotImplementedException();
+
+
         }
 
         public bool IsEnabled(LogLevel logLevel)
